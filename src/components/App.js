@@ -6,6 +6,7 @@ export default function App() {
   return (
     <div className="ui container">
       <PostList />
+      <h1>Hello</h1>
       <UserHeader />
     </div>
   );
